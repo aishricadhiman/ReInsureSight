@@ -1,0 +1,1 @@
+["latitude", "longitude", "precip_30d_mm", "precip_7d_mm", "soil_moisture", "temp_2m_c", "ndvi_pre", "duration_days", "total_deaths", "no_affected", "total_affected", "insurance_penetration", "gdp_per_capita", "year", "flood_subtype_enc", "season_enc", "region_enc", "subregion_enc", "coord_is_centroid"]
